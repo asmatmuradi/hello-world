@@ -1,0 +1,28 @@
+
+html {
+background: url(../images/background.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Comic Sans MS", serif;
+}
+.prof-box {
+  width:500px;
+  height: 500px;
+  background: rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin: 0 auto;
+  margin-top: 40px;
+  text-align: center;
+}
+.prof-pic {
+  height: 250;
+  width: 200;
+  border-radius: 35%;
+
+}
+h1{
+  font-weight: 100;
+  font-family: fantasy;
+}
