@@ -1,2 +1,2 @@
-# Personal Website - P1
-Repository for project1
+# hello world
+Repository for hello world
