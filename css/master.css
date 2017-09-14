@@ -10,7 +10,7 @@ html {
 }
 .prof-box {
   width:500px;
-  height: 600px;
+  height: 550px;
   background: rgba(0, 0, 0, 0.2);
   padding: 20px;
   margin: 0 auto;
@@ -21,6 +21,16 @@ html {
   height: 250;
   width: 200;
   border-radius: 35%;
+
+}
+.prof-qoute {
+  width:500px;
+  height: 100px;
+  background: rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin: 0 auto;
+  margin-top: 40px;
+  text-align: center;
 
 }
 h1{
